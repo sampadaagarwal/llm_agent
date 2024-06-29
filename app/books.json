@@ -1,0 +1,34 @@
+{
+    "fiction": [
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "rating": 4.5
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "rating": 4.3
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "rating": 4.7
+      }
+    ],
+    "science_fiction": [
+      {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "rating": 4.6
+      },
+      {
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "rating": 4.4
+      }
+      
+    ]
+
+  }
+  
